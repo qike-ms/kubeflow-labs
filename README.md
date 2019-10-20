@@ -24,12 +24,9 @@ git clone https://github.com/Azure/kubeflow-labs
 | | Module | Description |
 | --- | --- | --- |
 |0| **[Introduction](0-intro)** | Introduction to this workshop. Motivations and goals.|
-|1| **[Docker](1-docker)** | Docker and containers 101.|
-|2| **[Kubernetes](2-kubernetes)** | Kubernetes important concepts overview.|
-|3| **[Helm](3-helm)** | Introduction to Helm |
-|4| **[Kubeflow](4-kubeflow)** | Introduction to Kubeflow and how to deploy it in your cluster.|
-|5| **[JupyterHub](5-jupyterhub)** | Learn how to run JupyterHub to create and manage Jupyter notebooks using Kubeflow |
-|6| **[TFJob](6-tfjob)** | Introduction to `TFJob` and how to use it to deploy a simple TensorFlow training.|
+|1| **[Kubeflow](4-kubeflow)** | Introduction to Kubeflow and how to deploy it in your cluster.|
+|2| **[JupyterHub](5-jupyterhub)** | Learn how to run JupyterHub to create and manage Jupyter notebooks using Kubeflow |
+|3| **[TFJob](6-tfjob)** | Introduction to `TFJob` and how to use it to deploy a simple TensorFlow training.|
 |7| **[Distributed Tensorflow](7-distributed-tensorflow)** | Learn how to deploy and monitor distributed TensorFlow trainings with `TFJob`|
 |8| **[Hyperparameters Sweep with Helm](8-hyperparam-sweep)** | Using Helm to deploy a large number of trainings testing different hypothesis, and TensorBoard to monitor and compare the results |
 |9| **[Serving](9-serving)** | Using TensorFlow Serving to serve predictions |
